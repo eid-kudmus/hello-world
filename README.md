@@ -1,3 +1,4 @@
 # hello-world
 Just a traditional repository to get me started... 
-CHANGE in Master branch as well
+I made a french branch called 'bonjour-monde' to play with branching
+RESOLVED CONFLICT
